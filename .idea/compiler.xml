@@ -9,8 +9,8 @@
         <module name="eureka_zuul" />
         <module name="eureka_server" />
         <module name="eureka_consumer" />
-        <module name="springcloud" />
         <module name="eureka" />
+        <module name="springcloud" />
       </profile>
     </annotationProcessing>
   </component>
